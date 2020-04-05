@@ -1,4 +1,4 @@
 # Hello-word
 
 
-Hello, i'm exited and i can't wait to start the courses.
+Hello, i'm excited and i can't wait to start the courses.
